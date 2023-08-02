@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "on",
+	"newAppStatus" : "off",
 
 
 
-	"appPackage" : "com.tgdrza.dzatrza",
+	"appPackage" : "com.kiloo.subwaysurf",
 
 	"apiUrl" : "https://switchapp.in/api/"
 
