@@ -10,9 +10,9 @@
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.tgdrza.dzatrza",
 
-	"apiUrl" : "com.tgdrza.dzatrza"
+	"apiUrl" : "https://switchapp.in/api/"
 
 
 
