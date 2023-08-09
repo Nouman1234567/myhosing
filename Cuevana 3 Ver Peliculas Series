@@ -1,10 +1,19 @@
 {
+
+
+
 	"NetworkAds" : "applovin",
+
+
 
 	"newAppStatus" : "on",
 
-	"appPackage" : "com.hgdsz.nbvjf",
+
+
+	"appPackage" : "com.tgdrza.dzatrza",
 
 	"apiUrl" : "https://switchapp.in/api/"
+
+
 
 }
