@@ -1,9 +1,9 @@
 {
 	"NetworkAds" : "applovin",
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.trsf.trseafs",
 
 	"apiUrl" : "https://switchapp.in/api/"
 
