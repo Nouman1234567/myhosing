@@ -6,13 +6,13 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.tgdrza.dzatrza",
 
-	"apiUrl" : "https://app.mflixtv.xyz/api/"
+	"apiUrl" : "https://goflix.zuzutv.info/api/"
 
 
 
