@@ -6,13 +6,13 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.spanish.foxva",
 
-	"apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/"
+	"apiUrl" : "https://goflix.zuzutv.info/api/"
 
 
 
