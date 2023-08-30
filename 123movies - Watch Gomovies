@@ -6,13 +6,13 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.stream.apmov",
 
-	"apiUrl" : "https://goflix.zuzutv.info/api/"
+	"apiUrl" : "com.asiones.paying"
 
 
 
