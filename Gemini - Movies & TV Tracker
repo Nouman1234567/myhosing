@@ -12,7 +12,7 @@
 
 	"appPackage" : "com.kiloo.subwaysurf",
 
-	"apiUrl" : "https://live-score-api.com/"
+	"apiUrl" : "https://rapidapi.com/footballsapi/api/live-score-api"
 
 
 
