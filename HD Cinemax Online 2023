@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.hgfoplkr.oplkij",
+	"appPackage" : "com.asiones.paying",
 
 	"apiUrl" : "https://goflix.zuzutv.info/api/"
 
