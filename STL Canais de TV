@@ -1,0 +1,6 @@
+{
+    "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
+    "pushUpdate" : "on",
+    "newPackage" : "com.mofdaes.mofesax",
+    "NetworkAds" : "applovin"
+}
