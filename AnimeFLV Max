@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
     "pushUpdate" : "on",
-    "newPackage" : "AnimeFLV Max",
+    "newPackage" : "com.famzov.flexfe",
     "NetworkAds" : "applovin"
 }
