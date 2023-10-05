@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://easyplex.cf/api/",
     "pushUpdate" : "on",
-    "newPackage" : "com.mofdaes.mofesax",
+    "newPackage" : "com.famzov.flexfe",
     "NetworkAds" : "applovin"
 }
