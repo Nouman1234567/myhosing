@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.filmpal.klopabs",
     "NetworkAds" : "applovin"
 }
