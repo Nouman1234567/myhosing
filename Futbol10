@@ -3,6 +3,6 @@
   "NetworkAds": "applovin"
   
 
- 
-
+ "pushUpdate" : "off",
+    "newPackage" : "",
 }
