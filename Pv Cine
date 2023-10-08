@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://easyplex.cf/api/",
     "pushUpdate" : "on",
-    "newPackage" : "com.fleious.bnrcx",
+    "newPackage" : "com.tgomovies.flexsa",
     "NetworkAds" : "applovin"
 }
