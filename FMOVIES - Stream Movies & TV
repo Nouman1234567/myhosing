@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "com.mayflexar.newamfle",
+    "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
     "pushUpdate" : "on",
     "newPackage" : "com.mayflexar.newamfle",
     "NetworkAds" : "applovin"
