@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.famzov.flexfe",
+	"appPackage" : "com.mayflexar.newamfle",
 
 	"apiUrl" : "https://goflix.zuzutv.info/api/"
 
