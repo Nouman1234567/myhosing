@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://easyplex.cf/api/",
+    "apiUrl" : "com.mayflexar.newamfle",
     "pushUpdate" : "off",
     "newPackage" : "",
     "NetworkAds" : "applovin"
