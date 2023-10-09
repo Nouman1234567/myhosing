@@ -1,6 +1,6 @@
 {
     "apiUrl" : "com.mayflexar.newamfle",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.mayflexar.newamfle",
     "NetworkAds" : "applovin"
 }
