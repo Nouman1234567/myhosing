@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.filmpal.klopabs",
+	"appPackage" : "com.iskal.islam",
 
 	"apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/"
 
