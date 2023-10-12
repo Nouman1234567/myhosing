@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "com.tgomovies.flexsa",
+    "pushUpdate" : "on",
+    "newPackage" : "com.iskal.islama",
     "NetworkAds" : "applovin"
 }
