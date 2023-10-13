@@ -1,6 +1,6 @@
 {
-    "apiUrl" : "com.tgomovies.flexsa",
+    "apiUrl" : "com.asiones.paying",
     "pushUpdate" : "on",
-    "newPackage" : "",
+    "newPackage" : "com.asiones.paying",
     "NetworkAds" : "applovin"
 }
