@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.kiloo.subwaysurf",
-
-	"apiUrl" : "https://goflix.zuzutv.info/api/"
-
-
-
+    "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.iskal.islam",
+    "NetworkAds" : "applovin"
 }
