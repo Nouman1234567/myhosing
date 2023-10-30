@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "on",
+	"newAppStatus" : "off",
 
 
 
-	"appPackage" : "com.asiones.paying",
+	"appPackage" : "https://easyplex.cf/api/",
 
 	"apiUrl" : "https://goflix.zuzutv.info/api/"
 
