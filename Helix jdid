@@ -1,5 +1,5 @@
 {
-    "https://easyplex.cf/api/",
+    "apiUrl" : "https://app.mflixtv.xyz/api/",
     "pushUpdate" : "off",
     "newPackage" : "com.asiones.paying",
     "NetworkAds" : "applovin"
