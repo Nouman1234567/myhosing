@@ -1,6 +1,6 @@
 {
-    "https://goflix.zuzutv.info/api/",
-    "pushUpdate" : "on",
-    "newPackage" : "com.helxrfs.okjyghd",
+    "apiUrl" : "https://goflix.zuzutv.info/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.asiones.paying",
     "NetworkAds" : "applovin"
 }
