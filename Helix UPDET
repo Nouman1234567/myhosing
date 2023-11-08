@@ -1,6 +1,6 @@
 {
-    "apiUrl" : "https://goflix.zuzutv.info/api/",
-    "pushUpdate" : "ON",
+    "apiUrl" : "https://easyplex.cf/api/",
+    "pushUpdate" : "on",
     "newPackage" : "com.helxrfs.okjyghd",
     "NetworkAds" : "applovin"
 }
