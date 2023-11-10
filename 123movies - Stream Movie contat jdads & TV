@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://goflix.zuzutv.info/api/",
-    "pushUpdate" : "ON",
+    "pushUpdate" : "Off",
     "newPackage" : "com.dimavx.vofxi",
     "NetworkAds" : "applovin"
 }
