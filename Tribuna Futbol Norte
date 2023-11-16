@@ -1,6 +1,9 @@
 {
 
-  "NetworkAds": "applovin"
+  "pushUpdate": "off",
+  "newPackage": "",
+  "NetworkAds": "applovin",
+  "enableBet": "off"
   
 
  
