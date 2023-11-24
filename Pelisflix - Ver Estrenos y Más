@@ -1,5 +1,5 @@
 {
-    "apiUrl" : "https://switchapp.in/api/",
+    "apiUrl" : "https://goflix.zuzutv.info/api/",
     "pushUpdate" : "off",
     "newPackage" : "",
     "NetworkAds" : "applovin"
