@@ -1,5 +1,5 @@
 {
-    "https://switchapp.in/api/",
+    "apiUrl" : "https://switchapp.in/api/",
     "pushUpdate" : "off",
     "newPackage" : "",
     "NetworkAds" : "applovin"
