@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "on",
-
-
-
-	"appPackage" : "com.animef.mofdsa",
-
-	"apiUrl" : "https://goflix.zuzutv.info/api/"
-
-
-
+    "apiUrl" : "https://switchapp.in/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
+    "NetworkAds" : "applovin"
 }
