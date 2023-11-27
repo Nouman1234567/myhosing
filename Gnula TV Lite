@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://goflix.zuzutv.info/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "com.iskal.islam",
+    "pushUpdate" : "on",
+    "newPackage" : "com.fmlsqacc.lmdgsf",
     "NetworkAds" : "applovin"
 }
