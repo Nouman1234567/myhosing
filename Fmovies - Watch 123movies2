@@ -1,6 +1,6 @@
 {
-    "apiUrl" : "https://easyplex.cf/api/",
-    "pushUpdate" : "on",
-    "newPackage" : "com.dimavx.vofxi",
+    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
     "NetworkAds" : "applovin"
 }
