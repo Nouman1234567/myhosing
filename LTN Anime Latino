@@ -1,17 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "on",
-
-
-
-	"appPackage" : "com.dimavx.vofxi",
-
-	"apiUrl" : "https://app.mflixtv.xyz/api/"
-
+    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.iskal.islam",
+    "NetworkAds" : "applovin"
 }
