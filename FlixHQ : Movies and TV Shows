@@ -1,6 +1,6 @@
 {
-    "apiUrl" : "https://goflix.zuzutv.info/api/",
-    "pushUpdate" : "on",
+    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
+    "pushUpdate" : "oFF",
     "newPackage" : "com.zaesqda.entertainment",
     "NetworkAds" : "applovin"
 }
