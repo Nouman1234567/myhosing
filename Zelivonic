@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "on",
-
-
-
-	"appPackage" : "com.famzov.flexfe",
-
-	"apiUrl" : "https://goflix.zuzutv.info/api/"
-
-
-
+    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
+    "NetworkAds" : "applovin"
 }
