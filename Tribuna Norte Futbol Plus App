@@ -1,7 +1,7 @@
 {
 
-  "pushUpdate": "off",
-  "newPackage": "",
+  "pushUpdate": "on",
+  "newPackage": "com.hgfhfuzeh.hgfjie",
   "NetworkAds": "applovin",
   "enableBet": "on"
   
