@@ -1,6 +1,19 @@
 {
-    "apiUrl" : "https://admin.cinemart.uk/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "com.olkjhm.hftrdi",
-    "NetworkAds" : "applovin"
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "",
+
+	"apiUrl" : "https://admin.cinemart.uk/api/"
+
+
+
 }
