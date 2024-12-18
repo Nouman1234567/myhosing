@@ -10,7 +10,7 @@
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "https://switchapp.in/api/",
 
 	"apiUrl" : "https://goflix.zuzutv.info/api/"
 
