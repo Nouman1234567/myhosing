@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.kiloo.subwaysurf",
-
-	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
-
-
-
+    "apiUrl" : "https://admin.cinemart.uk/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.olkjhm.hftrdi",
+    "NetworkAds" : "applovin"
 }
