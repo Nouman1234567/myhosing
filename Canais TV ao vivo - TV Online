@@ -1,6 +1,6 @@
 {
-    "NetworkAds": "applovin",
-    "newAppStatus": "off",
-    "appPackage": "",
-    "apiUrl" : "https://hdmovies.aicryptogainer.com/api/"
+    "apiUrl" : "https://admin.cinemart.uk/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "com.olkjhm.hftrdi",
+    "NetworkAds" : "applovin"
 }
