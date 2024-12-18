@@ -1,6 +1,19 @@
 {
-    "apiUrl" : "https://app.mflixtv.xyz/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
-    "NetworkAds" : "applovin"
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "com.kiloo.subwaysurf",
+
+	"apiUrl" : "https://switchapp.in/api/"
+
+
+
 }
