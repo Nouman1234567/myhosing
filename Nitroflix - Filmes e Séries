@@ -1,6 +1,6 @@
 {
     "NetworkAds": "applovin",
-    "newAppStatus": "off",
-    "appPackage": "",
+    "newAppStatus": "oN",
+    "appPackage": "https://play.google.com/store/apps/details?id=com.better.place",
     "apiUrl" : "https://theactualpanel.motv.top/api/"
 }
