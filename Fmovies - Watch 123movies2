@@ -1,19 +1,7 @@
+
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.kiloo.subwaysurf",
-
-	"apiUrl" : "https://switchapp.in/api/"
-
-
-
+    "apiUrl" : "https://admin.cinemart.uk/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
+    "NetworkAds" : "applovin"
 }
