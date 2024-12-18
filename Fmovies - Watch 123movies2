@@ -1,6 +1,6 @@
 
 {
-    "apiUrl" : "https://admin.cinemart.uk/api/",
+    "apiUrl" : "https://admin.mbelkflix.xyz/api/",
     "pushUpdate" : "off",
     "newPackage" : "",
     "NetworkAds" : "applovin"
