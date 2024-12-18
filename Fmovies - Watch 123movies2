@@ -1,19 +1,6 @@
 {
-
-
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "",
-
-	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
-
-
-
+    "NetworkAds": "applovin",
+    "newAppStatus": "off",
+    "appPackage": "",
+    "apiUrl" : "https://admin.cinemart.uk/api/"
 }
