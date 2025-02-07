@@ -1,6 +1,19 @@
 {
-    "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "com.asiones.paying",
-    "NetworkAds" : "applovin"
+
+
+
+	"NetworkAds" : "applovin",
+
+
+
+	"newAppStatus" : "off",
+
+
+
+	"appPackage" : "com.kiloo.subwaysurf",
+
+	"apiUrl" : "https://goflix.zuzutv.info/api/"
+
+
+
 }
